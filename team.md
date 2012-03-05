@@ -9,4 +9,4 @@ The Team
 * Jussi
 * Danqing
 * Philipp
-* ...
+* etc.

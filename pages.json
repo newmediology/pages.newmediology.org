@@ -1,0 +1,3 @@
+---
+---
+[{% for page in site.pages %}{% if page.url != "/pages.json" %}{"title": "{{ page.title }}", "url": "{{ page.url }}"}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}]

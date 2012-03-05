@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: default
+class: projects
 ---
 
 Projects

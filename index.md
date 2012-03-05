@@ -1,6 +1,7 @@
 ---
 title: Hello world
 layout: default
+class: hello-world
 ---
 
 Hello world
